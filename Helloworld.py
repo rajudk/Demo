@@ -1,4 +1,4 @@
-"hello git"
+print("hello git")
 
 x = 1
 y = 3
